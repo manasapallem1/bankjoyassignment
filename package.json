@@ -1,7 +1,7 @@
 {
   "name": "bankjoy-api-automation",
   "version": "1.0.0",
-  "description": "Automated API testing framework for BankJoy assessment",
+  "description": "Automated API testing framework for Bank Of Canada using valet API",
   "scripts": {
   "test:staging": "test_env=staging npx cypress run",
   "test:production": "test_env=production npx cypress run",
