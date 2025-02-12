@@ -1,7 +1,7 @@
 # Bankjoy Automation Framework
 
 ## Overview
-This project automates API testing for the Bank of Canada Valet API using Cypress. It includes test cases for validating various endpoints, schema validation, and error handling.
+This project automates API testing for the Bank Joy using Cypress. It includes test cases for validating various endpoints, schema validation, and error handling.
 
 ## Prerequisites
 - Node.js (v14 or later)
