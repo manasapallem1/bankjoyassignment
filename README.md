@@ -1,7 +1,7 @@
 # Bankjoy Automation Framework
 
 ## Overview
-This project automates API testing for the Bank Joy using Cypress. It includes test cases for validating various endpoints, schema validation, and error handling.
+This project automates API testing for the Bank Of Canada via valet API using Cypress. It includes test cases for validating various endpoints, schema validation, and error handling.
 
 ## Prerequisites
 - Node.js (v14 or later)
@@ -54,4 +54,4 @@ Cypress is configured using cypress.config.js. The baseUrl is set dynamically ba
 - Axios (for API requests)
 
 ## Author
-Manasa Pallem
+Manasa Pallem :)
