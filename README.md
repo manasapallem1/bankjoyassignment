@@ -53,5 +53,11 @@ Cypress is configured using cypress.config.js. The baseUrl is set dynamically ba
 - Mochawesome (for reports)
 - Axios (for API requests)
 
+if there are more time->
+1 will add more test cases 
+2 will add history and trends reporting 
+3 will add the integration with test management tool. 
+4 add logging in the framework
+
 ## Author
 Manasa Pallem :)
